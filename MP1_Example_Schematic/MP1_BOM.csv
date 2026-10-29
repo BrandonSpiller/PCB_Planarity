@@ -1,0 +1,11 @@
+Reference,Qty,Value,Footprint,Description
+"C1,C2,C3,C4",4,1uF,Capacitor_SMD:C_0603_1608Metric,C0603C105K3RACTU   1 µF ±10% 25V Ceramic Capacitor X7R 0603 (1608 Metric)
+C5,1,0.1 uF,Capacitor_SMD:C_0603_1608Metric,CAP CER 0.1UF 50V X7R 0603   0.1 µF ±5% 50V Ceramic Capacitor X7R 0603 (1608 Metric)
+D1,1,RLED,LED_SMD:LED_0805_2012Metric,Red 631nm LED Indication - Discrete 2V 0805 (2012 Metric)
+J1,1,480370001,MP1_Library:CONN_480370001_MOL,"USB-A (USB TYPE-A) USB 2.0 Plug Connector 4 Position Through Hole, Right Angle"
+"R1,R3,R4,R5",4,1k,Resistor_SMD:R_0603_1608Metric,"RC0603FR-071KL   1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+R2,1,316k,Resistor_SMD:R_0603_1608Metric,"RC0603FR-07316KL 316 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+R6,1,47.5k,Resistor_SMD:R_0603_1608Metric,"47.5 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+R7,1,63.4,Resistor_SMD:R_0603_1608Metric,"RC0603FR-0763R4L 63.4 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+U1,1,OpAmp,MP1_Library:SOT-23-5_MC_MCH,MCP6021T-E/OTCT-ND   Standard (General Purpose) Amplifier 1 Circuit Rail-to-Rail SOT-23-5
+U2,1,MCP1702,MP1_Library:SOT-23A_MC_MCH,MCP1702T-3302E/CB Linear Voltage Regulator IC Positive Fixed 1 Output 250mA SOT-23A-3   IC REG LIN 3.3V 250MA SOT23A-3
